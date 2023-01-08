@@ -6,3 +6,5 @@ Git Fork : Penyalinan dari repository orang/organisasi lain, lalu menyimpannya d
 Git Clone : Mengambil sebuah repository dan menyimpannya pada dirktori lokal
 Git Commit : Cuplikan perubahan (snapshot) dari repository anda dari waktu tertentu
 Git push : mengirim hasil dari perubahan file yang dilakukan ke dalam repository server
+Git Checkout : perintah untuk berpindah atau melihat commit sebelumnya. Dapat juga digunakan untuk berpindah cabang.
+Git reset : perintah untuk melakukan reset  atau pengaturan ulang untuk mengembalikan suatu kondisi berkas ke commit yang dituju dan menghapus riwayat setelahnya
